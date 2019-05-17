@@ -1,0 +1,29 @@
+{
+  "name": "krosmaga",
+  "version": "1.0.5",
+  "description": "Krosmaga wrapper to get user data",
+  "main": "krosmaga.js",
+  "dependencies": {
+    "request": "^2.88.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "krosmaga",
+    "card-game",
+    "wrapper",
+    "parsing",
+    "parser",
+    "parse",
+    "html",
+    "rank",
+    "ladder",
+    "place",
+    "player",
+    "game"
+  ],
+  "author": "ghom",
+  "license": "ISC"
+}
