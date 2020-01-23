@@ -1,3 +1,10 @@
+# Warning !
+
+> ⚠️ This library no longer works !  
+> Use [Krosmap](https://github.com/CamilleAbella/Krosmap) instead.
+
+<hr>
+
 ![Transparent Krosmaga](https://upload.wikimedia.org/wikipedia/fr/e/e7/Krosmaga_Logo.png)
 
 # Krosmaga Wrapper
